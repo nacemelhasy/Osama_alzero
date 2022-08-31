@@ -1,0 +1,4 @@
+*.log
+!packages.log
+packages/
+text.txt
